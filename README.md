@@ -1,6 +1,6 @@
 # 프로젝트 이름
 
-<p align="center"><img width=50% src="https://wonjerry.github.io/images/github_logo.png"></p>
+<p align="center"><a href="https://github.com/"><img width=50% src="https://wonjerry.github.io/images/github_logo.png"></a></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
@@ -26,19 +26,45 @@
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-  - [소분류1](#소분류1)
-  - [소분류2](#소분류2)
-  - [소분류3](#소분류3)
+  - [install](#install)
+  - [Prerequisites](#Prerequisites)
+  - [Running the tests](#Running the tests)
   - [소분류4](#소분류4)
+  
+- [Deployment](#Deployment)
+- [License](#License)
 
 ## Getting Started
-### 소분류1
+  ### Installing
+  설치에 관련된 이야기를 작성한다.
 
-### 소분류2
+  ### Prerequisites
+  아래 사항들이 설치가 되어있어야합니다.
+  
+  ```
+  예시
+  ```
+  
+  ### Running the tests
+  어떻게 테스트가 이 시스템에서 돌아가는지에 대한 설명을 합니다
 
-### 소분류3
+  ```
+  예시
+  ```
 
-### 소분류4
-<details><summary><b>더보기</b></summary>
-  추가적으로 작성하고 싶은 내용을 적으시오
-</details>
+  ### 소분류4
+  <details><summary><b>더보기</b></summary>
+    추가적으로 작성하고 싶은 내용을 적으시오
+  </details>
+
+
+
+## Deployment / 배포
+
+Add additional notes about how to deploy this on a live system / 라이브 시스템을 배포하는 방법
+
+
+## License / 라이센스
+
+This project is licensed under the MIT License
+
