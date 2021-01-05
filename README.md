@@ -26,9 +26,9 @@
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-  - [install](#install)
+  - [Installing](#Installing)
   - [Prerequisites](#Prerequisites)
-  - [Running the tests](#Running the tests)
+  - [testing](#testing)
   - [소분류4](#소분류4)
   
 - [Deployment](#Deployment)
@@ -45,7 +45,7 @@
   예시
   ```
   
-  ### Running the tests
+  ### testing
   어떻게 테스트가 이 시스템에서 돌아가는지에 대한 설명을 합니다
 
   ```
@@ -58,13 +58,14 @@
   </details>
 
 
+<br/>
 
-## Deployment / 배포
+## Deployment
 
 Add additional notes about how to deploy this on a live system / 라이브 시스템을 배포하는 방법
 
 
-## License / 라이센스
+## License
 
 This project is licensed under the MIT License
 
