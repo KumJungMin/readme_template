@@ -19,7 +19,7 @@
 
 <img src="https://blog.kakaocdn.net/dn/C2I55/btqDPKMnmSC/Hk215teKpxHtrvPOXMqkm1/img.jpg" height="400px" width="100%" />
 
-<a href="#"> 프로젝트 미리보기 </a>
+<a href="https://shields.io/"> 프로젝트 미리보기 영역이지만, 누르면 뱃지 다는 법을 이동 </a>
 
 ---
 
@@ -39,3 +39,6 @@
 ### 소분류3
 
 ### 소분류4
+<details><summary><b>더보기</b></summary>
+  추가적으로 작성하고 싶은 내용을 적으시오
+</details>
