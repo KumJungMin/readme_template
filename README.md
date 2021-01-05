@@ -15,7 +15,9 @@
 깃은 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사용자들 간에 해당 파일들의 작업을 조율하기 위한 분산 버전 관리 시스템이다. 
 소프트웨어 개발에서 소스 코드 관리에 주로 사용되지만 어떠한 집합의 파일의 변경사항을 지속적으로 추적하기 위해 사용될 수 있다.
 
-<img src="https://blog.kakaocdn.net/dn/C2I55/btqDPKMnmSC/Hk215teKpxHtrvPOXMqkm1/img.jpg" height="300px" width="100%" />
+<br/>
+
+<img src="https://blog.kakaocdn.net/dn/C2I55/btqDPKMnmSC/Hk215teKpxHtrvPOXMqkm1/img.jpg" height="400px" width="100%" />
 
 <a href="#"> 프로젝트 미리보기 </a>
 
